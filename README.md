@@ -1,6 +1,6 @@
 # Desarrollo_Software
 
-Paeticipantes:
+Participantes:
 -Gonzalez Leonardo
 -Veggini Franco
 -Castillo Romina
