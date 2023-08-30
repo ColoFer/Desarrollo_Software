@@ -2,7 +2,7 @@
 
 Participantes:
 -Gonzalez Leonardo
--Veggini Franco
+-Veggiani Franco
 -Castillo Romina
 -Longo Agustin
 -Caballero Juan
